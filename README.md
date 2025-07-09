@@ -15,7 +15,7 @@ The following programs and packages are required to run these notebooks:
 - `fastai`
 - `pytorch`
 
-## Installation
+## Installation of ML Packages
 
 ### `scikit-learn`
 ```
