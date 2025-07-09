@@ -1,4 +1,6 @@
 # A Crash Course in Basic Machine Learning in Python
+The purpose of this tutorial is to briefly introduce some open source machine learning tools available for `python`. It is in no way comprehensive, but it is a decent starting point for astronomers looking to incorporate ML into their own work! The main packages used in this tutorial are `sklearn` and `fastai`. 
+
 
 ## Requirements
 The following programs and packages are required to run these notebooks: 
