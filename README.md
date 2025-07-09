@@ -1,6 +1,12 @@
 # A Crash Course in Basic Machine Learning in Python
 The purpose of this tutorial is to briefly introduce some open source machine learning tools available for `python`. It is in no way comprehensive, but it is a decent starting point for astronomers looking to incorporate ML into their own work! The main packages used in this tutorial are `sklearn` and `fastai`. 
 
+## Cloning Repo
+
+If you have `git` installed, then from the terminal you can clone this repo to your machine with:
+```
+git clone https://github.com/QosmicQi/ML_Demos.git
+```
 
 ## Requirements
 The following programs and packages are required to run these notebooks: 
