@@ -2,6 +2,7 @@
 The purpose of this tutorial is to briefly introduce some open source machine learning tools available for `python`. It is in no way comprehensive, but it is a decent starting point for astronomers looking to incorporate ML into their own work! The main packages used in this tutorial are `sklearn` and `fastai`. 
 
 ## Cloning Repo
+'Fork' this repository to get a personal copy of this repository in your GitHub. 
 
 If you have `git` installed, then from the terminal you can clone this repo to your machine with:
 ```
